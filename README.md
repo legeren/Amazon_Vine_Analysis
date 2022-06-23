@@ -24,7 +24,7 @@ The purpose of this analysis is to determine if there is any bias toward favorab
    - ![image](https://user-images.githubusercontent.com/100737452/175182765-8429be93-5245-40ab-9020-4f513350b95d.png)
 
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
 In summary, I do not believe there is enough vine reviews to conclude that there is any positivity bias for reviews in the Vine program based on my chosen dataset.  The vine reviews only represented less than 1% (47 vine reviews/8,409 total reviews) of the total reviews available.  As such, even though 31.91% of vine reviews were 5-stars, it does not skew/influence the overall score of the product.  Besides, more than half of 99% of reviews which were non-vine also reviewed the product at 5-stars.
 
 An additional analysis I could do with the same dataset to support my statement might be to remove the filter for "votes" as this step (see screenshot below) filtered my dataset and may have removed the total number of vine reviews from my analysis which would then let me come to a closer conclusion to determine if there is any positivity bias for reviews.
